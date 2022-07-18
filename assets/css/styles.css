@@ -1,0 +1,41 @@
+/* Fonts */
+@font-face {
+  font-family: "Fraunces";
+  font-weight: 700;
+  src: url("../../fonts/Fraunces-Bold.ttf") format("TrueType");
+}
+@font-face {
+  font-family: "Montserrat";
+  font-weight: 500;
+  src: url("../../fonts/Montserrat-Medium.ttf") format("TrueType");
+}
+@font-face {
+  font-family: "Montserrat";
+  font-weight: 700;
+  src: url("../../fonts/Montserrat-Bold.ttf") format("TrueType");
+}
+/* Variables */
+/* Reset code */
+*, *::after, *::before {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  min-height: 100vh;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+}
+
+/* ----- Regular code ----- *//*# sourceMappingURL=styles.css.map */

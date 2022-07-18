@@ -1,0 +1,49 @@
+/* Fonts */
+@font-face {
+    font-family: "Fraunces";
+    font-weight: 700;
+    src: url("../../fonts/Fraunces-Bold.ttf") format("TrueType");
+}
+@font-face {
+    font-family: "Montserrat";
+    font-weight: 500;
+    src: url("../../fonts/Montserrat-Medium.ttf") format("TrueType");
+}
+@font-face {
+    font-family: "Montserrat";
+    font-weight: 700;
+    src: url("../../fonts/Montserrat-Bold.ttf") format("TrueType");
+}
+
+/* Variables */
+$cart_color: hsl(158, 36%, 37%);
+$background_color: hsl(30, 38%, 92%);
+$title_color: hsl(212, 21%, 14%);
+$textContent_color: hsl(228, 12%, 48%);
+$card_background_color: hsl(0, 0%, 100%);
+
+$text_font: "Fraunces";
+$price_font: "Montserrat";
+$title_font: "Montserrat";
+
+/* Reset code */
+*, *::after, *::before{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+html{
+    font-size: 62.5%;
+}
+body{
+    min-height: 100vh;
+}
+a{
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+}
+
+/* ----- Regular code ----- */
+
