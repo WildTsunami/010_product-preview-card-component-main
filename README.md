@@ -24,15 +24,15 @@ Users should be able to:
 ### Screenshot
 
 Mobile :
-![](./assets/images/mobile_view.png.jpg)
+<img src="assets/images/mobile_view.jpg" alt="">
 
 Desktop :
-![](./assets/images/desktop_view.png.jpg)
+<img src="assets/images/desktop_view.jpg" alt="">
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa/hub/solution-with-bem-scss-and-flexbox-MM6agiPGeS
+- Live Site URL: https://wildtsunami.github.io/010_product-preview-card-component-main/
 
 ## My process
 
