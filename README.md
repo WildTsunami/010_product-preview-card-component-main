@@ -24,10 +24,10 @@ Users should be able to:
 ### Screenshot
 
 Mobile :
-<img src="assets/images/mobile_view.jpg" alt="">
+![](assets/images/mobile_view.png)
 
 Desktop :
-<img src="assets/images/desktop_view.jpg" alt="">
+![](assets/images/desktop_view.png)
 
 ### Links
 
@@ -46,4 +46,4 @@ Desktop :
 
 ## Author
 
-- Frontend Mentor - [@@WildTsunami](https://www.frontendmentor.io/profile/WildTsunami)
+- Frontend Mentor - [@WildTsunami](https://www.frontendmentor.io/profile/WildTsunami)
